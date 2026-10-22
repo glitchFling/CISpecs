@@ -1,4 +1,4 @@
-name: Check Hardware Capacity
+name: CISpecs for Windows
 on: [push]
 
 jobs:
