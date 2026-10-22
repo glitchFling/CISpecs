@@ -1,4 +1,4 @@
-name: Check Hardware Capacity
+name: CISpecs for MacOS
 on: [push]
 
 jobs:
