@@ -1,0 +1,12 @@
+{
+  "name": "ci-spec-checker",
+  "version": "1.0.0",
+  "description": "Check GitHub Actions CI environment specifications",
+  "main": "index.js",
+  "scripts": {
+    "check-specs": "node check-specs.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
